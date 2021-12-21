@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://hson194.github.io/csb-c1y0k/static/css/main.56766165.chunk.css",
+    "main.js": "https://hson194.github.io/csb-c1y0k/static/js/main.e75676cb.chunk.js",
+    "main.js.map": "https://hson194.github.io/csb-c1y0k/static/js/main.e75676cb.chunk.js.map",
+    "runtime-main.js": "https://hson194.github.io/csb-c1y0k/static/js/runtime-main.0f6dfb33.js",
+    "runtime-main.js.map": "https://hson194.github.io/csb-c1y0k/static/js/runtime-main.0f6dfb33.js.map",
+    "static/css/2.cbedb215.chunk.css": "https://hson194.github.io/csb-c1y0k/static/css/2.cbedb215.chunk.css",
+    "static/js/2.ae0d3cc5.chunk.js": "https://hson194.github.io/csb-c1y0k/static/js/2.ae0d3cc5.chunk.js",
+    "static/js/2.ae0d3cc5.chunk.js.map": "https://hson194.github.io/csb-c1y0k/static/js/2.ae0d3cc5.chunk.js.map",
+    "index.html": "https://hson194.github.io/csb-c1y0k/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "https://hson194.github.io/csb-c1y0k/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.56766165.chunk.css.map": "https://hson194.github.io/csb-c1y0k/static/css/main.56766165.chunk.css.map",
+    "static/js/2.ae0d3cc5.chunk.js.LICENSE.txt": "https://hson194.github.io/csb-c1y0k/static/js/2.ae0d3cc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f6dfb33.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.ae0d3cc5.chunk.js",
+    "static/css/main.56766165.chunk.css",
+    "static/js/main.e75676cb.chunk.js"
+  ]
+}
